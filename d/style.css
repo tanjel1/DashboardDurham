@@ -1,0 +1,24 @@
+body{
+
+	background-color: #B0E0E6;
+	padding: 30px;
+	margin-right: 5px;
+	
+
+}
+
+/*#div.title {
+	position: fixed
+}*/
+
+#dashboardTitle {
+
+	 font-family: "Times New Roman", Times, serif;
+	 font-size: 85px;
+	 color: #6495ED;
+	 margin-left: 35px;
+	 position: relative;
+	 
+     
+
+}
